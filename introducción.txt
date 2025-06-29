@@ -1,0 +1,31 @@
+TP Final — Dashboard con Shiny
+Alumno: Mariano Gordillo Francisco 
+Materia: ciencia de dato
+Fecha de entrega: 29/06/2025
+
+Título del proyecto: Comparativa histórica de procesadores 
+(Intel, AMD y Otros)
+
+Descripción:
+Este proyecto explora la evolución del mercado de procesadores 
+desde 2015 hasta 2024. A través de gráficos interactivos y 
+comparativos, se analiza cómo cambiaron las ventas, el rendimiento 
+promedio y la preferencia del público entre marcas como Intel, 
+AMD y otras.
+
+La aplicación está desarrollada en R utilizando `Shiny` y 
+`shinydashboard`, con visualizaciones construidas en `ggplot2`. 
+Incluye una interfaz con navegación por pestañas, diseño estilizado 
+y una sección de presentación con storytelling.
+
+Instrucciones para ejecutar:
+1. Asegurarse de tener los paquetes `shiny`, `shinydashboard`, 
+`ggplot2` y `dplyr` instalados.
+2. Colocar los archivos `comparativa_CPU.R` y 
+`comparativa_procesadores.csv` en la misma carpeta.
+3. Abrir `comparativa_CPU.R` en RStudio.
+4. Presionar **Run App** para visualizar el dashboard.
+
+Este trabajo busca no solo mostrar datos, sino también contar 
+la historia detrás de su evolución en el mercado.
+
